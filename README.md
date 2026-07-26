@@ -2,6 +2,10 @@
 
 A modern xoxo game written in Python using Tkinter with an AI opponent.
 
+<img width="1366" height="725" alt="2026-07-26_23-16-28" src="https://github.com/user-attachments/assets/11316988-b584-47f5-b424-8ec9b0e7d9c5" />
+<img width="458" height="579" alt="2026-07-26_23-17-33" src="https://github.com/user-attachments/assets/2a6bac4e-8ba2-43f5-b3f3-0cb9b34fe288" />
+
+
 ## Features
 - Play against AI
 - Three difficulty levels:
